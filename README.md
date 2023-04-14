@@ -11,6 +11,6 @@
 *<b>Javacript</b> de <b>DOM</b> yapısı ile form içerisindeki <i>input</i>'lardaki giriş kontrolleri ve sorguları sağlandı.</br>
 </p>
 
-<a href="">Canlı Önizleme</a>
+<a href="https://responsive-contactus.netlify.app/">Canlı Önizleme</a>
 
 <img src="./img/screen.gif" alt="">
